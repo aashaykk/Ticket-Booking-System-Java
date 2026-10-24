@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+**/build/
+**/test-ledger/
+*.class
+.DS_Store
